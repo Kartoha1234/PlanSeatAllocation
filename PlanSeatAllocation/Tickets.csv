@@ -1,0 +1,11 @@
+Id,Passenger name,Seat number,Booked
+1,Ivan,4,,,Booked
+2,Emma,5,,,Booked
+3,Sintia,7,,,Not_Booked
+4,Bily,1,,,Not_Booked
+5,Jane,2,,,Not_Booked
+6,Anastasia,8,,,Not_Booked
+7,Danielle,3,,,Not_Booked
+8,John,11,,,Booked
+9,Nina,14,,,Not_Booked
+10,Jesica,12,,,,Not_Booked
